@@ -23,5 +23,5 @@ A Streamlit-based web application designed to help users manage their personal f
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/personal-finance-assistant.git
+   git clone https://github.com/Sandeepasineth/personal-finance-assistant.git
    cd personal-finance-assistant
